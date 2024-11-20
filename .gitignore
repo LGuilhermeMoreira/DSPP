@@ -1,6 +1,6 @@
-my_env_to_dspp/bin
-my_env_to_dspp/include
-my_env_to_dspp/lib
-my_env_to_dspp/lib64
-my_env_to_dspp/share
-my_env_to_dspp/pyvenv.cfg
+env_to_dspp/bin
+env_to_dspp/include
+env_to_dspp/lib
+env_to_dspp/lib64
+env_to_dspp/share
+env_to_dspp/pyvenv.cfg
